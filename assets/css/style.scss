@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-h1 {
+h1[id^=painel-setorial-saúde] {
+    display: none;
+  }
+
+.site-footer-credits {
     display: none;
   }
