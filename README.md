@@ -1,6 +1,6 @@
 # Painel Setorial Saúde
 
-##Clique abaixo na imagem da aprsentação para baixa-la:
+## Clique abaixo na imagem da aprsentação para baixa-la:
 
 ### Tendências e movimentos globais no setor da saúde e potenciais impactos e oportunidades para o mercado brasileiro
 
