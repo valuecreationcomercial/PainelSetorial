@@ -1,7 +1,3 @@
----
-title: Home
----
-
 # Painel Setorial Saúde
 
 ## Clique abaixo na imagem da aprsentação para baixa-la:
