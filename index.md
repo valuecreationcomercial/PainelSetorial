@@ -1,7 +1,6 @@
 ---
-tiltle: Painel Setorial Saúde
+tiltle: "Painel Setorial Saúde"
 layout: default
-sidebar: test
 ---
 
 ## Clique abaixo na imagem da aprsentação para baixa-la:

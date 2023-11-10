@@ -1,7 +1,7 @@
 ---
 title: Teste
 layout: default
-sidebar: test
 ---
 
-## Teste
+# Titulo teste
+## Texto teste
