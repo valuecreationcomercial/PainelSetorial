@@ -4,7 +4,7 @@ layout: default
 
 # Painel Setorial Agro
 
-## Clique abaixo na imagem da aprsentação para baixa-la:
+## Clique abaixo na imagem da apresentação para baixa-la:
 
 ### Projeções macroeconômicas, dinâmica global do agronegócio e seus impactos e oportunidades para a agricultura e pecuária no Brasil - Marcos Jank
 

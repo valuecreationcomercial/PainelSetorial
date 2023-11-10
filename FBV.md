@@ -4,7 +4,7 @@ layout: default
 
 # Painel Setorial F&B e Varejo
 
-## Clique abaixo na imagem da aprsentação para baixa-la:
+## Clique abaixo na imagem da apresentação para baixa-la:
 
 ### Projeções macroeconômicas e principais indicadores do varejo alimentar brasileiro, visão de curto e médio prazo - Sergio Vale
 
