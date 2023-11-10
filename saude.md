@@ -8,7 +8,7 @@ layout: default
 
 ### Mercado de vidas seguradas no setor privado, oportunidades e riscos para o setor de saúde no Brasil - Antonio Britto
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/ns35jEZ2zN0?si=CP2PYVNaaskTg3oS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="375" src="https://www.youtube.com/embed/ns35jEZ2zN0?si=CP2PYVNaaskTg3oS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Impacto da A.I. e das plataformas tecnológicas no setor da saúde - Maurício França
 
