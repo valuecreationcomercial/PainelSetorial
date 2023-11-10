@@ -1,5 +1,5 @@
 ---
-title: Teste
+title: Painel Setorial
 layout: default
 ---
 
