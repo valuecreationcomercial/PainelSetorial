@@ -7,5 +7,8 @@ docs:
 - title: Saúde
   url: saude.html
 
+- title: F&B e Varejo
+  url: FBV.html
+
 - title: Teste
   url: teste.html

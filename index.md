@@ -1,5 +1,5 @@
 ---
-tiltle: Painel Setorial
+title: Painel Setorial
 layout: default
 ---
 
