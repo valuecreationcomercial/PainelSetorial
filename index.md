@@ -1,8 +1,14 @@
 ---
+tiltle: Painel Setorial Saúde
 layout: default
+sidebar: test
 ---
 
-# Painel Setorial Saúde
+<ul>
+    {% for item in site.data.samplelist[page.sidebar] %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+</ul>
 
 ## Clique abaixo na imagem da aprsentação para baixa-la:
 
