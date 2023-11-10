@@ -1,5 +1,5 @@
 ---
-tiltle: "Painel Setorial Saúde"
+tiltle: Painel Setorial Saúde
 layout: default
 ---
 
