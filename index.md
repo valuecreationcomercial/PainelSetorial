@@ -5,9 +5,9 @@ sidebar: test
 ---
 
 <ul>
-    {% for item in site.data.samplelist[page.sidebar] %}
+   {% for item in site.data.pages.docs %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
+   {% endfor %}
 </ul>
 
 ## Clique abaixo na imagem da aprsentação para baixa-la:
