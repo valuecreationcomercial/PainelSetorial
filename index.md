@@ -7,4 +7,4 @@ layout: default
 
 ### Aqui compartilhamos algumas fotos do evento, assim como as apresentações realizadas nos 3 dias
 
-{% include my-gallery.html folder="myfolder" %}
+{% include my-gallery.html folder="/photos/" %}
