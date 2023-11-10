@@ -4,12 +4,6 @@ layout: default
 sidebar: test
 ---
 
-<ul>
-   {% for item in site.data.pages.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
-
 ## Clique abaixo na imagem da aprsentação para baixa-la:
 
 ### Tendências e movimentos globais no setor da saúde e potenciais impactos e oportunidades para o mercado brasileiro
