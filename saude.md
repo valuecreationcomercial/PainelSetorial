@@ -29,7 +29,10 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ### Tendências e movimentos globais no setor da saúde e potenciais impactos e oportunidades para o mercado brasileiro - Tracy Francis
 
-
+<div class="container">
+<iframe src="https://www.youtube.com/embed/F3-eVTHDgh8?si=nsRkikFHnqzhdSci" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 <a href="pdfs/231107_Patria_McKinsey.pdf" class="image fit"><img src="imgs/Terceira_Apresentação.jpg" alt=""></a>
 
 <br/>
@@ -37,5 +40,8 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ### Panorama de fraudes, sinistralidades e evolução do setor de saúde no Brasil - José Cechin
 
-
+<div class="container">
+<iframe src="https://www.youtube.com/embed/bK4UNzhpXE4?si=M1cINzp2r0eNy5rw" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 <a href="pdfs/231107_Patria_JoseCechin.pdf" class="image fit"><img src="imgs/231107_Patria_JoseCechin.jpg" alt=""></a>
