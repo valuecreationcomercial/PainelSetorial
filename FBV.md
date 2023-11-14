@@ -41,4 +41,8 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ### Caso de Sucesso Mercado Livre – Eficiência Logística da Última Milha - Frederico Rezeck
 
+<div class="container">
+<iframe src="https://www.youtube.com/embed/-fqjTtT5Nas?si=L66-tJsRl15W1Qk6" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 <a href="pdfs/231107_Patria_Fred_Rezeck.pdf" class="image fit"><img src="imgs/231107_Patria_Fred_Rezeck.jpg" alt=""></a>
