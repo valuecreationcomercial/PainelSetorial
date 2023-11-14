@@ -19,6 +19,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ### A evolução da jornada de consumo e comportamento do consumidor e seus impactos no food service e varejo alimentar - Ulisses Zamboni
 
+<div class="container">
 <iframe src="https://www.youtube.com/embed/vzHuihOiGqo?si=FnOv720rMzEfzKTu" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
