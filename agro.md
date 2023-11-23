@@ -12,7 +12,7 @@ layout: default
 <iframe src="https://www.youtube.com/embed/LY8ToGezXIA?si=Ua7WKd9NtwYP4eHk" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<a href="pdfs/231109_Patria_Marcos_Jank.pdf" class="image fit"><img src="imgs/231109_Patria_Marcos_Jank.jpg" alt=""></a>
+<a href="pdfs/231109_Patria_MarcosJank.pdf" class="image fit"><img src="imgs/231109_Patria_Marcos_Jank.jpg" alt=""></a>
 
 <br/>
 <br/>
@@ -23,7 +23,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 <iframe src="https://www.youtube.com/embed/fUBFZn5-q9s?si=yg6g6gLHR_F-8_we" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<a href="pdfs/231109_Patria_Blink_LarsSchobinger.pdf" class="image fit"><img src="imgs/231109_Patria_Blink_LarsSchobinger.jpg" alt=""></a>
+<a href="pdfs/231109_Patria_LarsSchobinger.pdf" class="image fit"><img src="imgs/231109_Patria_Blink_LarsSchobinger.jpg" alt=""></a>
 
 <br/>
 <br/>
@@ -34,7 +34,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 <iframe src="https://www.youtube.com/embed/s3PtxtXz6-c?si=ccN7eMmPcWeimiQl" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<a href="pdfs/231109_Patria_João_Comério.pdf" class="image fit"><img src="imgs/231109_Patria_João_Comério.jpg" alt=""></a>
+<a href="pdfs/231109_Patria_JoãoComério.pdf" class="image fit"><img src="imgs/231109_Patria_João_Comério.jpg" alt=""></a>
 
 <br/>
 <br/>
@@ -45,4 +45,4 @@ frameborder="0" allowfullscreen class="video"></iframe>
 <iframe src="https://www.youtube.com/embed/BH-4afutkfg?si=PRS3fJ8o0ybl6BL_" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<a href="pdfs/231109_Patria_Silvia_Massruhá.pdf" class="image fit"><img src="imgs/231109_Patria_Silvia_Massruhá.jpg" alt=""></a>
+<a href="pdfs/231109_Patria_SilviaMassruhá.pdf" class="image fit"><img src="imgs/231109_Patria_Silvia_Massruhá.jpg" alt=""></a>

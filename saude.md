@@ -33,7 +33,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 <iframe src="https://www.youtube.com/embed/F3-eVTHDgh8?si=nsRkikFHnqzhdSci" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
-<a href="pdfs/231107_Patria_McKinsey.pdf" class="image fit"><img src="imgs/Terceira_Apresentação.jpg" alt=""></a>
+<a href="pdfs/231107_Patria_TracyFrancis.pdf" class="image fit"><img src="imgs/Terceira_Apresentação.jpg" alt=""></a>
 
 <br/>
 <br/>
